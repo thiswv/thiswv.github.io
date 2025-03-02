@@ -1,10 +1,10 @@
 ---
 title: "Arena源码分析"
-date: 2025-03-02
+date: 2025-03-02 23:11:12
 tags: leveldb
 ---
 
-![Arena_class_](D:\boke\thiswv\assets\images\Arena_class_.png)
+![Arena_class_](assets\images\Arena_class_.png)
 
 讲个题外话，这用draw.io画出来的图，导出来后怎么这么糊涂啊，把缩放放大后确实清晰，但也很占地方啊！！
 
@@ -26,7 +26,7 @@ char* alloc_bytes_remaining_;
 vector<char*> blocks_;
 ```
 
-![Arena_variable_](D:\boke\thiswv\assets\images\Arena_variable.png)
+![Arena_variable_](assets\images\Arena_variable.png)
 
 
 
