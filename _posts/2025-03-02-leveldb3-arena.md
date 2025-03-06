@@ -4,7 +4,7 @@ date: 2025-03-02
 tags: leveldb
 ---
 
-![Arena_class_](assets/images/leveldb/Arena_class_.png)
+![Arena_class_]({{ site.baseurl }}/assets/images/leveldb/Arena_class_.png)
 
 讲个题外话，这用draw.io画出来的图，导出来后怎么这么糊涂啊，把缩放放大后确实清晰，但也很占地方啊！！
 
@@ -26,7 +26,7 @@ char* alloc_bytes_remaining_;
 vector<char*> blocks_;
 ```
 
-![Arena_variable_](assets/images/leveldb/Arena_variable.png)
+![Arena_variable_](/assets/images/leveldb/Arena_variable.png)
 
 
 
