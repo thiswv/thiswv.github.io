@@ -59,7 +59,7 @@ leveldb中 P = 1 / 4。一般别的跳表可能会取 P = 1 / 2，这样更好�
 
 
 
-![1](D:\boke\thiswv\assets\images\skiplist\1.png)
+![1](/assets/images/skiplist/1.png)
 
 
 
